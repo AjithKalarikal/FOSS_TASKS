@@ -3,7 +3,7 @@
 \
 #All the tasks that i have done till this day.
 ## LISTS:
-| sl.no| Task No | Task Name| About|
+| **Sl.no**| **Task No** | **Task Name**| **About**|
 |-------|----------------------|-------------------|----------|------|
 |||||
 |#1.|0.|[Blog Making](/TASK_0)|*Making a blog about ubuntu installation|
