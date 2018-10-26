@@ -6,7 +6,7 @@
 | **S.no** | **Task Number** | **Task Name**             | **Remarks** |
 |----------|-----------------|---------------------------|-------------|
 |          |                 |                           |             |
-|#1.|0.|[Blog Making](/TASK_0)|*Making a blog about ubuntu installation|
+|#1.|0.|[Blog Making](/TASK_0/My Blog.Desktop)|*Making a blog about ubuntu installation|
 |#2|1.|[Programming](/TASK_1).|a).[HackerRank](/) Problems using Python and C++|
 ||||b).[CodeForces](/) Problems using Python and C++|
 |#3|3.|[Begining With Python](/TASK_3)|a).String Problem
