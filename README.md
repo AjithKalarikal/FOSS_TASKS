@@ -14,5 +14,4 @@
 |#4|4.|[Google Scraping](/TASK_4)|*Used Chrome Webdriver and Selenium package.
 |#5|6.|[Captcha Breaking](/TASK_^6)|*Used pytesseract and PIL package
 |#6|7.|[Simple Web Page](/TASK_&)|*Used Html
-|#7|10.|GitHub&GitCommands     | Learnt and used most of the commands and understood the purpose and working of Git and Github
 
